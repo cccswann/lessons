@@ -1,4 +1,4 @@
-# C Programming Basics - Lessons from Andrew 
+# C Programming Basics - Lessons from andrewgregory43
 
 Topics Covered:
 - Enum
