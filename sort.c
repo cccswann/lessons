@@ -11,7 +11,7 @@ int main(int argc, char* argv[]){
 	/* Print the unsorted list. */
 	print_array(list, LIST_SIZE);
 
-	/* Sort the list with INSERTION SORT */
+	/* Sort the list with SELECTION SORT */
 	for (int i = 0; i < LIST_SIZE - 1; i++) {
 		for (int j = i + 1; j < LIST_SIZE; j++) {
 			if (list[j] < list[i]) { // swap the two numbers
