@@ -2,7 +2,7 @@
 
 #define LIST_SIZE 9
 
-void print_array(int [], int);
+void print_array(int a[], int size);
 
 int main(int argc, char* argv[]){
 	int list[LIST_SIZE] = {1, 9, 3, 14, 5, 27, 99, 2, 0};
